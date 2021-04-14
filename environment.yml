@@ -1,0 +1,10 @@
+name: plotting-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+  - bokeh
+  - cmocean
