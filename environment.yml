@@ -6,5 +6,4 @@ dependencies:
   - matplotlib
   - seaborn
   - pandas
-  - bokeh
   - cmocean
